@@ -1,0 +1,249 @@
+{
+  "homepage_banners": [
+    {
+      "id": "banner_game_001",
+      "image_url": "https://via.placeholder.com/1200x350/FF4500/FFFFFF?text=AKUN+RARE+DISKON+BESAR%21",
+      "link_url": "/promo/rare-accounts",
+      "alt_text": "Diskon Akun Rare Game"
+    },
+    {
+      "id": "banner_game_002",
+      "image_url": "https://via.placeholder.com/1200x350/1E90FF/FFFFFF?text=TOP+UP+INSTAN+DAN+AMAN",
+      "link_url": "/topup",
+      "alt_text": "Top Up Game Instan"
+    },
+    {
+      "id": "banner_game_003",
+      "image_url": "https://via.placeholder.com/1200x350/32CD32/FFFFFF?text=AKUN+SULTAN+DENGAN+HARGA+TERBAIK",
+      "link_url": "/promo/sultan-accounts",
+      "alt_text": "Akun Sultan Terbaik"
+    }
+  ],
+  "small_banners": [
+    {
+      "id": "small_banner_game_001",
+      "image_url": "https://via.placeholder.com/390x170/FFD700/333333?text=VERIFIKASI+CEPAT+24+JAM",
+      "link_url": "/faq/verifikasi",
+      "alt_text": "Verifikasi Cepat"
+    },
+    {
+      "id": "small_banner_game_002",
+      "image_url": "https://via.placeholder.com/390x170/DAA520/333333?text=GARANSI+KEAMANAN+AKUN",
+      "link_url": "/garansi",
+      "alt_text": "Garansi Keamanan Akun"
+    }
+  ],
+  "quick_access_items": [
+    {
+      "id": "qa_game_001",
+      "icon_class": "fas fa-gamepad",
+      "text": "Akun Mobile",
+      "link_url": "/kategori/mobile"
+    },
+    {
+      "id": "qa_game_002",
+      "icon_class": "fas fa-desktop",
+      "text": "Akun PC",
+      "link_url": "/kategori/pc"
+    },
+    {
+      "id": "qa_game_003",
+      "icon_class": "fas fa-shield-alt",
+      "text": "Akun Verified",
+      "link_url": "/filter/verified"
+    },
+    {
+      "id": "qa_game_004",
+      "icon_class": "fas fa-tags",
+      "text": "Promo Akun",
+      "link_url": "/promo"
+    },
+    {
+      "id": "qa_game_005",
+      "icon_class": "fas fa-fire",
+      "text": "Terlaris",
+      "link_url": "/terlaris"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat_game_001",
+      "name": "Mobile Legends",
+      "image_url": "https://via.placeholder.com/100x100/DC143C/FFFFFF?text=MLBB",
+      "link_url": "/kategori/mobile-legends"
+    },
+    {
+      "id": "cat_game_002",
+      "name": "PUBG Mobile",
+      "image_url": "https://via.placeholder.com/100x100/00008B/FFFFFF?text=PUBGM",
+      "link_url": "/kategori/pubg-mobile"
+    },
+    {
+      "id": "cat_game_003",
+      "name": "Genshin Impact",
+      "image_url": "https://via.placeholder.com/100x100/4682B4/FFFFFF?text=Genshin",
+      "link_url": "/kategori/genshin-impact"
+    },
+    {
+      "id": "cat_game_004",
+      "name": "Valorant",
+      "image_url": "https://via.placeholder.com/100x100/FF4500/FFFFFF?text=Valorant",
+      "link_url": "/kategori/valorant"
+    },
+    {
+      "id": "cat_game_005",
+      "name": "Free Fire",
+      "image_url": "https://via.placeholder.com/100x100/FFA500/FFFFFF?text=FF",
+      "link_url": "/kategori/free-fire"
+    },
+    {
+      "id": "cat_game_006",
+      "name": "Clash of Clans",
+      "image_url": "https://via.placeholder.com/100x100/8B4513/FFFFFF?text=CoC",
+      "link_url": "/kategori/clash-of-clans"
+    }
+  ],
+  "featured_accounts": [
+    {
+      "id": "account001",
+      "game": "Mobile Legends",
+      "title": "Akun Sultan MLBB Rank Mythic GLory Skin Lengkap",
+      "price": 2500000,
+      "original_price": 3000000,
+      "discount_percent": 16,
+      "image_url": "https://via.placeholder.com/200x200/DC143C/FFFFFF?text=MLBB+Sultan+Acc",
+      "rating": 4.9,
+      "reviews_count": 85,
+      "location": "Jakarta",
+      "seller": "ProGamer Accounts",
+      "specifications": {
+        "rank": "Mythic Glory (Top Global)",
+        "hero_count": 120,
+        "skin_count": 350,
+        "rare_skins": ["Legend Lunox", "Collector Guinevere", "KOF Chou"],
+        "win_rate": "65% Ranked",
+        "embl_level": "Max All",
+        "binding_info": ["Moonton (Unbind)", "Google Play"]
+      },
+      "is_verified_seller": true,
+      "is_top_deal": true
+    },
+    {
+      "id": "account002",
+      "game": "Genshin Impact",
+      "title": "Akun Genshin Impact AR 58 C6 Raiden C6 Nahida",
+      "price": 4800000,
+      "original_price": 5500000,
+      "discount_percent": 12,
+      "image_url": "https://via.placeholder.com/200x200/4682B4/FFFFFF?text=Genshin+AR58",
+      "rating": 4.8,
+      "reviews_count": 60,
+      "location": "Surabaya",
+      "seller": "Teyvat Account Shop",
+      "specifications": {
+        "adventure_rank": 58,
+        "characters_5_star": ["Raiden Shogun C6", "Nahida C6", "Kazuha C2", "Zhongli C1"],
+        "weapons_5_star": ["Engulfing Lightning", "Light of Foliar Incision", "Freedom-Sworn"],
+        "primogems": "500+",
+        "resins": "Fragile Resin 80+",
+        "binding_info": ["Username (Unbind)", "Email (Changeable)"]
+      },
+      "is_verified_seller": true,
+      "is_top_deal": false
+    },
+    {
+      "id": "account003",
+      "game": "Valorant",
+      "title": "Akun Valorant Rank Radiant Skin Lengkap Phantom Vandal RGX",
+      "price": 3500000,
+      "original_price": 4000000,
+      "discount_percent": 12,
+      "image_url": "https://via.placeholder.com/200x200/FF4500/FFFFFF?text=Valorant+Radiant",
+      "rating": 4.7,
+      "reviews_count": 40,
+      "location": "Bandung",
+      "seller": "Radiant Seller ID",
+      "specifications": {
+        "rank": "Radiant (Episode 8 Act 3)",
+        "level": 300,
+        "skin_bundles": ["RGX 11z Pro Vandal", "Reaver Phantom", "Oni Phantom", "Prime Vandal"],
+        "radianite_points": "5000+",
+        "agents_unlocked": "All Agents",
+        "binding_info": ["Riot ID Changeable", "Email (Changeable)"]
+      },
+      "is_verified_seller": true,
+      "is_top_deal": true
+    },
+    {
+      "id": "account004",
+      "game": "PUBG Mobile",
+      "title": "Akun PUBG Mobile Level 70 M4 Glacier Lv.5 + Outfit Mythic",
+      "price": 1800000,
+      "original_price": 2000000,
+      "discount_percent": 10,
+      "image_url": "https://via.placeholder.com/200x200/00008B/FFFFFF?text=PUBGM+Mythic",
+      "rating": 4.6,
+      "reviews_count": 55,
+      "location": "Medan",
+      "seller": "PUBG Legends",
+      "specifications": {
+        "level": 70,
+        "weapon_skins_upgradable": ["M416 Glacier Lv.5", "AKM Glacier Lv.3"],
+        "outfit_mythic": "15+",
+        "vehicle_skins": "5+",
+        "RP_level": "Max Season 15-20",
+        "binding_info": ["Twitter (Unbind)", "Facebook (Unbind)"]
+      },
+      "is_verified_seller": false,
+      "is_top_deal": false
+    },
+    {
+      "id": "account005",
+      "game": "Free Fire",
+      "title": "Akun FF Level 75 Elite Pass Lengkap Skin SCAR Titan",
+      "price": 1200000,
+      "original_price": 1500000,
+      "discount_percent": 20,
+      "image_url": "https://via.placeholder.com/200x200/FFA500/FFFFFF?text=FF+Max+Acc",
+      "rating": 4.5,
+      "reviews_count": 70,
+      "location": "Yogyakarta",
+      "seller": "Fire Accounts",
+      "specifications": {
+        "level": 75,
+        "elite_pass_count": "30+ Season",
+        "weapon_skins_rare": ["SCAR Titan", "M1887 Rapper Underworld"],
+        "character_count": "All Characters Unlocked",
+        "pet_count": "All Pets Max Level",
+        "binding_info": ["Google (Unbind)", "VK (Unbind)"]
+      },
+      "is_verified_seller": true,
+      "is_top_deal": true
+    },
+    {
+      "id": "account006",
+      "game": "Clash of Clans",
+      "title": "Akun COC TH15 Max Defense & Hero",
+      "price": 2800000,
+      "original_price": 3200000,
+      "discount_percent": 12,
+      "image_url": "https://via.placeholder.com/200x200/8B4513/FFFFFF?text=COC+TH15",
+      "rating": 4.7,
+      "reviews_count": 30,
+      "location": "Semarang",
+      "seller": "Clash Empires",
+      "specifications": {
+        "town_hall_level": 15,
+        "hero_levels": "Barbarian King 90, Archer Queen 90, Grand Warden 65, Royal Champion 40",
+        "defense_level": "Maxed",
+        "troops_level": "Maxed",
+        "wall_level": "Maxed",
+        "gems": "5000+",
+        "binding_info": ["Supercell ID (Unbindable)"]
+      },
+      "is_verified_seller": true,
+      "is_top_deal": false
+    }
+  ]
+      }
+        
